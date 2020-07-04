@@ -1,0 +1,46 @@
+body{
+  font-family: Roboto;
+  background: linear-gradient(to right, #1e7b7b, #d6f5f5)
+}
+
+.container{
+  border: 2px solid black;
+  margin: 8% 35% 15% 35%;
+  background-color: white;
+}
+
+#calculater{
+
+}
+
+#output{
+  background-color: lightgray;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 3px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2pt;
+}
+
+#outputvalue{
+  font-size: 24pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul{
+  list-style: none;
+  border: 1px solid gray;
+  margin: 15px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: lightgray;
+}
+
+button{
+  border: none;
+  font-size: 70pt;
+  font-weight: bold;
+  margin: 4px;
+}

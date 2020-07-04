@@ -1,0 +1,46 @@
+body{
+  background-color: gray;
+}
+
+#titleContainer{
+  text-align: center;
+  margin: 1.5% 23% 0 23%;
+  font-size: 130%;
+  color: #404040;
+  background-color: #f4f4f4;
+  border: 2px solid #4f4f4f;
+  box-shadow:  0 0 10px 5px rgb(240, 233, 255);
+}
+#container{
+  margin: 8% 300px 25% 300px;
+  background-color: lightgray;
+  width: 50%;
+  border: 2px solid #4f4f4f;
+  box-shadow:  0 0 10px 5px rgb(0, 233, 255);
+}
+#card{
+  background-color: #b3b3b3;
+  font-size: 370%;
+  border: 2px solid #4f4f4f;
+  margin:10px;
+  height: auto;
+  padding-left: 10px;
+  font-style: italic;
+  font-family: monospace;
+}
+#bywho{
+  font-size: 26pt;
+  margin: 0;
+  margin-left: 50%;
+  margin-right: 4px;
+  font-weight: bold;
+
+}
+
+#change{
+  margin-left: 38%;
+  margin-bottom: 6px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15pt;
+}
